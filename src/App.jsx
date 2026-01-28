@@ -39,7 +39,7 @@ const projects = [
     images: [
       "/my-portfolio/images/ana-img01.jpg",
       "/my-portfolio/images/ana-img03.jpg",
-      "/my-portfolio/images/ana-img10.jpg"
+      "/my-portfolio/images/ana-img00.png"
     ],
     color: "from-sky-600 to-blue-800"
   },
