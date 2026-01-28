@@ -56,9 +56,9 @@ const projects = [
     ],
     videoUrl: "https://www.youtube.com/watch?v=-QLWBBquItU",
     images: [
-      "/my-portfolio/images/shimizu-vr-img04.png",
+      "/my-portfolio/images/shimizu-vr-img04.jpg",
       "/my-portfolio/images/shimizu-vr-img01.png",
-      "/my-portfolio/images/shimizu-vr-img02.png"
+      "/my-portfolio/images/shimizu-vr-img02.jpg"
     ],
     color: "from-orange-500 to-amber-600"
   },
@@ -460,7 +460,7 @@ const Footer = () => (
     <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
       <div className="flex justify-center">
         <p className="text-center text-base text-gray-400">
-          &copy; 2024 XR Engineer Portfolio. All rights reserved.
+          
         </p>
       </div>
     </div>
