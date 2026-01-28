@@ -18,9 +18,9 @@ const projects = [
     ],
     videoUrl: "https://www.youtube.com/shorts/tOUeK14S30w", 
     images: [
-      "https://images.unsplash.com/photo-1617183628236-40763595b002?q=80&w=1000&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1563294627-c10b4279b9c9?q=80&w=1000&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1474487548417-781cb71495f3?q=80&w=1000&auto=format&fit=crop"
+      "/my-portfolio/images/jr-central-img01.jpg",
+      "/my-portfolio/images/jr-central-img05.jpg",
+      "/my-portfolio/images/jr-central-img06.jpg"
     ],
     color: "from-blue-600 to-cyan-400"
   },
@@ -37,8 +37,9 @@ const projects = [
     ],
     videoUrl: "https://www.youtube.com/watch?v=Clae2WmXaCk",
     images: [
-      "https://images.unsplash.com/photo-1559297434-fae8a1916a79?q=80&w=1000&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1582236545239-015842822557?q=80&w=1000&auto=format&fit=crop"
+      "/my-portfolio/images/ana-img01.jpg",
+      "/my-portfolio/images/ana-img03.jpg",
+      "/my-portfolio/images/ana-img10.jpg"
     ],
     color: "from-sky-600 to-blue-800"
   },
@@ -55,8 +56,9 @@ const projects = [
     ],
     videoUrl: "https://www.youtube.com/watch?v=-QLWBBquItU",
     images: [
-      "https://images.unsplash.com/photo-1541888946425-d81bb19240f5?q=80&w=1000&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1581093458791-9f3c3900df4b?q=80&w=1000&auto=format&fit=crop"
+      "/my-portfolio/images/shimizu-vr-img04.png",
+      "/my-portfolio/images/shimizu-vr-img01.png",
+      "/my-portfolio/images/shimizu-vr-img02.png"
     ],
     color: "from-orange-500 to-amber-600"
   },
@@ -73,8 +75,9 @@ const projects = [
     ],
     videoUrl: "https://www.youtube.com/watch?v=6oTMEkMnbQA", 
     images: [
-      "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?q=80&w=1000&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1592478411213-61535fdd861d?q=80&w=1000&auto=format&fit=crop"
+      "/my-portfolio/images/ashiba1.png",
+      "/my-portfolio/images/ashiba2.png",
+      "/my-portfolio/images/ashiba3.png"
     ],
     color: "from-emerald-500 to-teal-600"
   }
@@ -86,13 +89,13 @@ const otherWorks = [
     id: 101,
     title: "VisionPro Dev",
     description: "Apple Vision Proの実機を用いた技術検証。LiDARや画像解析を用いた空間コンピューティングアプリの企画提案。",
-    imageUrl: "https://images.unsplash.com/photo-1626379953822-baec19c3accd?q=80&w=1000&auto=format&fit=crop"
+    imageUrl: "/my-portfolio/images/visionPro.png"
   },
   {
     id: 102,
     title: "カメラ映像配信",
     description: "HLSまたはWebRTCを用いた低遅延ストリーミングシステムの構築。バーチャルカメラ・360度カメラをUnity/Webクライアントへリアルタイム配信の研究開発。",
-    imageUrl: "https://images.unsplash.com/photo-1554625295-23c27b0b6e9c?q=80&w=1000&auto=format&fit=crop"
+    imageUrl: "/my-portfolio/images/camera.png"
   },
   {
     id: 103,
@@ -128,7 +131,7 @@ const otherWorks = [
     id: 108,
     title: "Personal Dev",
     description: "カメラによるトラッキングアプリなど公開。チームでのVRChatのワールド制作活動も行っていた。現在は、AI開発の勉強も兼ねてインディゲーム開発中。",
-    imageUrl: "https://images.unsplash.com/photo-1555099962-4199c345e5dd?q=80&w=1000&auto=format&fit=crop"
+    imageUrl: "/my-portfolio/images/down4.png"
   }
 ];
 
